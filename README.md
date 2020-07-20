@@ -1,8 +1,10 @@
 ## Microservice based AWS Services
 
 This is a fun project that I started to get used to AWS suite and integrate AWS services with most
-of my other personal projects. This is setup in a totally stateless manner \
-it takes in input --> interacts with AWS service --> responds with the result
+of my other personal projects. This is setup in a totally stateless manner
+1) it takes in input 
+2) interacts with AWS service
+3) responds with the result
 
 ### AWS Services added till date:
 
