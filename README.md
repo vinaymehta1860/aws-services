@@ -8,3 +8,4 @@ it takes in input --> interacts with AWS service --> responds with the result
 
  - ##### AWS Comprehend
     - Text analysis of a single string 
+    - Text analysis on a list of strings
